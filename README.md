@@ -1,5 +1,6 @@
 # antagosoft-test_Work
 Frontend test work for company antagosoft in UKR
+
 **Task**
 1. Заверстать приложенный макет.
 Кроссбраузерность - все версии браузеров с мировой долей пользователей более 2% за последние три месяца.
